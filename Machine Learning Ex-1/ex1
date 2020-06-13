@@ -26,6 +26,7 @@ submit.m - Submission script that sends your solutions to our servers
 ? indicates files you will need to complete
 † indicates optional exercises
 1
+
 Throughout the exercise, you will be using the scripts ex1.m and ex1 multi.m.
 These scripts set up the dataset for the problems and make calls to functions
 that you will write. You do not need to modify either of them. You are only
